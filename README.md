@@ -1,8 +1,16 @@
-# A01796262_A5.2
+# ![TEC Logo](assets/logo.png)
 
-Actividad 5.2 - Ejercicio de programacion 2 y analisis estatico.
+## MAESTRÍA EN INTELIGENCIA ARTIFICIAL APLICADA
 
-![Logo del proyecto](assets/logo.jpg)
+---
+
+### **Curso: TC4017 - Pruebas de software y aseguramiento de la calidad**
+
+#### **Alumno:** Héctor Alejandro Álvarez Rosas
+
+#### **Matrícula:** A01796262
+
+## Actividad 5.2 - Ejercicio de programacion 2 y analisis estatico
 
 ## Descripcion del proyecto
 
