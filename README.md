@@ -1,4 +1,4 @@
-# ![TEC Logo](assets/logo.png)
+# ![TEC Logo](assets/logo.jpg)
 
 ## MAESTRÍA EN INTELIGENCIA ARTIFICIAL APLICADA
 
